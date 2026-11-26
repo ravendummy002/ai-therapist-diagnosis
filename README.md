@@ -12,7 +12,7 @@ One line from an AI therapist diagnosing its patient: diagnosis — chronic "I'l
 node main.ts
 ```
 
-Writes the line to `/output/entry.txt` (196 characters, one line, deterministic).
+Writes the line to `/output/entry.txt` (194 characters, one line, deterministic).
 
 ---
 
